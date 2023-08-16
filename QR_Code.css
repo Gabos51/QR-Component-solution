@@ -1,0 +1,54 @@
+
+body{
+    width: 1440px;
+    background: hsl(212, 45%, 89%);
+    text-align: center;
+
+}
+
+.main-hero {
+    
+    max-width: 260px;
+    height: 450px;
+    border: 3px solid white;
+    background: white;
+    padding: 10px;
+    margin: 100px auto;
+    border-radius: 20px;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 8px;
+    border: 1px hsl(218, 44%, 22%);
+    margin-bottom: 5px;
+    margin-top: 5px;
+    
+}
+
+.p-improve{
+    font-size: 16px;
+    margin: 15px 10px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 900;
+    color: hsl(218, 44%, 22%);
+
+}
+
+.p-scan {
+    font-size: 13px;
+    margin: 15px 10px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 300;
+    color: hsl(220, 15%, 55%);
+}
+
+.sub-section {
+    font-size: 10px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: bolder;
+    color: hsl(218, 44%, 22%);
+    margin: 20px 10px;
+
+}
